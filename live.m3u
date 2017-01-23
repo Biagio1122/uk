@@ -1,72 +1,200 @@
 # uk
 #EXTM3U
-#EXTINF:-1,@--ENGLISH-CHANNEL--@
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/938.ts
-#EXTINF:-1,UK:Sky-Sports-1-HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/522.ts
-#EXTINF:-1,UK:Sky-Sports-2-HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/523.ts
-#EXTINF:-1,UK:Sky-Sports-3-HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/386.ts
-#EXTINF:-1,UK:Sky-Sports-4-HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/387.ts
-#EXTINF:-1,UK:SKY-SPORTS-5-HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/631.ts
-#EXTINF:-1,UK:Sky-Sports-F1-HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/969.ts
-#EXTINF:-1,UK:CTH-Stadium-1-HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/965.ts
-#EXTINF:-1,UK:CTH-Stadium-2-HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/966.ts
-#EXTINF:-1,UK:CTH-Stadium-3-HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/967.ts
-#EXTINF:-1,UK:CTH-Stadium-4-HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/968.ts
-#EXTINF:-1,UK:SportTimeTV1
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/410.ts
-#EXTINF:-1,UK:SPORTIMETV2
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/409.ts
-#EXTINF:-1,UK:SportTimeTV4
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/408.ts
-#EXTINF:-1,UK:SportTimeTV5
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/407.ts
-#EXTINF:-1,UK:SportTimeTV6
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/406.ts
-#EXTINF:-1,UK:Eurosport-1-HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/970.ts
-#EXTINF:-1,UK:Eurosport-2-HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/971.ts
-#EXTINF:-1,UK:RTE-1-HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/977.ts
-#EXTINF:-1,UK:Horror-Channel-HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/976.ts
-#EXTINF:-1,UK:CBS-Drama-HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/972.ts
-#EXTINF:-1,UK:CBS-Action-HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/973.ts
-#EXTINF:-1,UK:Disney_Junior
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/691.ts
-#EXTINF:-1,UK:Disney_Channel
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/907.ts
-#EXTINF:-1,UK:Discovery_History
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/908.ts
-#EXTINF:-1,UK:Sky_Movies_Comedy-HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/549.ts
-#EXTINF:-1,UK:4-Seven-HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/547.ts
-#EXTINF:-1,UK:True_Movies_1
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/633.ts
-#EXTINF:-1,UK:True_Movies_2
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/550.ts
-#EXTINF:-1,UK:Sky-Movies-Premiere-HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/974.ts
-#EXTINF:-1,UK:Sky-Movies-Drama-HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/975.ts
-#EXTINF:-1,UK:Sky-Movies-Family_HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/551.ts
-#EXTINF:-1,UK:Sky-Movies-Select_HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/552.ts
-#EXTINF:-1,UK:Sky-Cinema-Passion-HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/553.ts
-#EXTINF:-1,UK:BBC-NEWS-HD
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/978.ts
+#EXTINF:0,----------------------------SKY-UK----------------------------------------
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2213.ts
+#EXTINF:0,UK:Zing
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2215.ts
+#EXTINF:0,UK:Zee TV
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2216.ts
+#EXTINF:0,UK:Zee Punjabi
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2217.ts
+#EXTINF:0,UK:Zee Cinema
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2218.ts
+#EXTINF:0,UK:Vox Africa
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2219.ts
+#EXTINF:0,UK:UMP Movies_M
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2220.ts
+#EXTINF:0,UK:TVC News  1
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2221.ts
+#EXTINF:0,UK:TVC News
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2222.ts
+#EXTINF:0,UK:Travel
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2223.ts
+#EXTINF:0,UK:Star GOLD
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2224.ts
+#EXTINF:0,UK:Sony Movies 1
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2225.ts
+#EXTINF:0,UK:Sony Movies
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2226.ts
+#EXTINF:0,UK:SkyDramaRom_M
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2227.ts
+#EXTINF:0,UK:Sky.Movies.Comedy.Central
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/1990.ts
+#EXTINF:0,UK:Sky Thriller_M
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2228.ts
+#EXTINF:0,UK:Sky Sports F1
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2229.ts
+#EXTINF:0,UK:SKY SPORTS 5
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2230.ts
+#EXTINF:0,UK:Sky Sports 4
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2231.ts
+#EXTINF:0,UK:Sky Sports 3
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2232.ts
+#EXTINF:0,UK:Sky Sports 2
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2233.ts
+#EXTINF:0,UK:Sky Sports 1
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2234.ts
+#EXTINF:0,UK:Sky ScFi/Horror_M
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2235.ts
+#EXTINF:0,UK:Sky Prem 1_M
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2236.ts
+#EXTINF:0,UK:Sky Family_M
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2237.ts
+#EXTINF:0,UK:Sky Disney_M
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2238.ts
+#EXTINF:0,UK:Sky Comedy_M
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2239.ts
+#EXTINF:0,UK:Sky Action_M
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2240.ts
+#EXTINF:0,UK:ShowBiz TV
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2241.ts
+#EXTINF:0,UK:Premier Sports
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2242.ts
+#EXTINF:0,UK:Peace TV
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2243.ts
+#EXTINF:0,UK:PBS America
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2244.ts
+#EXTINF:0,UK:Nollywood
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2245.ts
+#EXTINF:0,UK:Nat Geo Wild
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2246.ts
+#EXTINF:0,UK:Nat Geo 1hr
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2247.ts
+#EXTINF:0,UK:Nat Geo
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2248.ts
+#EXTINF:0,UK:MTV Music
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2249.ts
+#EXTINF:0,UK:MTV DANCE
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2250.ts
+#EXTINF:0,UK:mov4men 1
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2251.ts
+#EXTINF:0,UK:LOVEWORLD TV
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2252.ts
+#EXTINF:0,UK:IQRA TV
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2253.ts
+#EXTINF:0,UK:History  1 hour
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2254.ts
+#EXTINF:0,UK:History
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2255.ts
+#EXTINF:0,UK:FOX News
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2256.ts
+#EXTINF:0,UK:Food Network
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2257.ts
+#EXTINF:0,UK:Eurosport 2
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2258.ts
+#EXTINF:0,UK:Eurosport 1
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2259.ts
+#EXTINF:0,UK:Euronews
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2260.ts
+#EXTINF:0,UK:Eman Channel
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2261.ts
+#EXTINF:0,UK:Disney xd
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2262.ts
+#EXTINF:0,UK:Disney Junior
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2263.ts
+#EXTINF:0,UK:Disney Chnl
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2264.ts
+#EXTINF:0,UK:Discovery 1
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2265.ts
+#EXTINF:0,UK:Discovery
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2266.ts
+#EXTINF:0,UK:Disc.Science
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2267.ts
+#EXTINF:0,UK:Disc.History
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2268.ts
+#EXTINF:0,UK:ComedyCentral
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2269.ts
+#EXTINF:0,UK:CNBC
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2270.ts
+#EXTINF:0,UK:CHANNEL24 AFRICA
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2271.ts
+#EXTINF:0,UK:CBS Reality
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2272.ts
+#EXTINF:0,UK:CBS Drama
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2273.ts
+#EXTINF:0,UK:CBS Action
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2274.ts
+#EXTINF:0,UK:BT SPORT 2
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2277.ts
+#EXTINF:0,UK:BBC Two Eng
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2281.ts
+#EXTINF:0,UK:BBC One Lon
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2282.ts
+#EXTINF:0,UK:Al Jazeera Eng
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2284.ts
+#EXTINF:0,UK:AIT Int'l
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2285.ts
+#EXTINF:0,UK:ABN TV
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2286.ts
+#EXTINF:0,UK: Sky Sport 5 HD
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/2287.ts
+#EXTINF:0,Rai1HD
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/1451.ts
+#EXTINF:0,Rai3HD
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/1453.ts
+#EXTINF:0,SkyBundesliga
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/1515.ts
+#EXTINF:0,TR_AKILLI_TV
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/1685.ts
+#EXTINF:0,--------------***MOVIE***--------------
+http://redbled.no-ip.org:8000/live/LxcxGElr/bxPdSVL9/1785.ts
+#EXTINF:0,the.trust
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2303.mkv
+#EXTINF:0,Jack.Reacher:Never.Go.Back
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2296.mkv
+#EXTINF:0,Ben-Hur
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2295.mkv
+#EXTINF:0,Kickboxer:Vengeance
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2294.mkv
+#EXTINF:0,The.Magnificent.Seven
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2199.mkv
+#EXTINF:0,Sully
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2200.mkv
+#EXTINF:0,Storks
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2201.mkv
+#EXTINF:0,Mechanic.Resurrection
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2202.mkv
+#EXTINF:0,100.Below
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2196.mkv
+#EXTINF:0,I.T
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2195.mkv
+#EXTINF:0,War.Dogs
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2184.mkv
+#EXTINF:0,My.Big.Fat.Greek.Wedding.2
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2182.mkv
+#EXTINF:0,Blood.Father
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2181.mkv
+#EXTINF:0,Shao.Lin.mu.ren.xiang
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2178.mkv
+#EXTINF:0,Finding.Dory
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2174.mkv
+#EXTINF:0,Narcopolis
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2173.mkv
+#EXTINF:0,Kindergarten.Cop.2
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2172.mkv
+#EXTINF:0,Viking.Legacy
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2171.mkv
+#EXTINF:0,Star.Trek.Beyond
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2169.mkv
+#EXTINF:0,Avatar
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2170.mkv
+#EXTINF:0,The.Lovers
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2168.mkv
+#EXTINF:0,Infiltrator
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2160.mkv
+#EXTINF:0,The.Shallows
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2155.mkv
+#EXTINF:0,World.War.Z
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2154.mkv
+#EXTINF:0,The.Immigrant
+http://redbled.no-ip.org:8000/movie/LxcxGElr/bxPdSVL9/2156.mkv
