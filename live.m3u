@@ -1,36 +1,38 @@
 # uk
 #EXTM3U
-#EXTINF:-1,USA TSN Sports 1 HD
-http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4983.mkv
-#EXTINF:-1,USA TSN Sports 2 HD
-http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4984.mkv
-#EXTINF:-1,USA TSN Sports 3 HD
-http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4985.mkv
-#EXTINF:-1,USA TSN Sports 4 HD
-http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4986.mkv
-#EXTINF:-1,USA TSN Sports 5 HD
-http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4987.mkv
-#EXTINF:-1,USA: PAC Mountain 1080P
-http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4982.mkv
-#EXTINF:-1,USA: PAC Network National 720P
-http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4981.ts
-#EXTINF:-1,USA: PAC-12 Net. (Arizona) 1080P
-http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4980.ts
-#EXTINF:-1,USA: PAC-12 Net. (Arizona) 720P
-http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4979.ts
-#EXTINF:-1,USA: PAC-12 Net. (Bay Area) 1080P
-http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4978.ts
-#EXTINF:-1,USA: PAC-12 Net. (Bay Area) 720P
-http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4977.ts
-#EXTINF:-1,USA: PAC-12 Net. (Encore)
-http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4976.ts
-#EXTINF:-1,USA: PAC-12 Net. (Los Angeles) 720P
-http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4975.ts
-#EXTINF:-1,USA: PAC-12 Net. (Oregon) 1080P
-http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4974.ts
-#EXTINF:-1,USA: PAC-12 Net. (Oregon) 720P
-http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4973.ts
-#EXTINF:-1,USA: PAC-12 Net. (Washington) 1080P
-http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4972.ts
-#EXTINF:-1,USA: PAC-12 Net. (Washington) 720P
-http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4971.ts
+#EXTINF:-1,@--HOME-MOVIES--@
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/935.ts
+#EXTINF:-1,Movie_1
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/46.ts
+#EXTINF:-1,Movie_2
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/45.ts
+#EXTINF:-1,Movie_3
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/44.ts
+#EXTINF:-1,Movie_4
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/43.ts
+#EXTINF:-1,Movie_5
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/42.ts
+#EXTINF:-1,Movie_6
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/41.ts
+#EXTINF:-1,Movie_7
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/40.ts
+#EXTINF:-1,Movie_8
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/39.ts
+#EXTINF:-1,Movie_9_kids
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/38.ts
+#EXTINF:-1,Movie_10_kids
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/37.ts
+#EXTINF:-1,Teatro_Masr_1
+http://0100dyndns.tv:7879/movie/wa15/eTKbGZTQDE/626.mp4
+#EXTINF:-1,Teatro_Masr_2
+http://0100dyndns.tv:7879/movie/wa15/eTKbGZTQDE/627.mp4
+#EXTINF:-1,Teatro_Masr_3
+http://0100dyndns.tv:7879/movie/wa15/eTKbGZTQDE/628.mp4
+#EXTINF:-1,Teatro_Masr_4
+http://0100dyndns.tv:7879/movie/wa15/eTKbGZTQDE/629.mp4
+#EXTINF:-1,Teatro_Masr_5
+http://0100dyndns.tv:7879/movie/wa15/eTKbGZTQDE/630.mp4
+#EXTINF:-1,MASRAHIAT-1
+http://0100dyndns.tv:7879/movie/wa15/eTKbGZTQDE/921.mp4
+#EXTINF:-1,MASRAHIAT-2
+http://0100dyndns.tv:7879/movie/wa15/eTKbGZTQDE/922.mp4
