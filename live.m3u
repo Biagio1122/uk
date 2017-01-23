@@ -1,196 +1,123 @@
 # uk
 #EXTM3U
-#EXTINF:-1,NOTICIAS
-http://noticias.ej/index.m3u8
-#EXTINF:-1,canal 1 - Antena 3 Internacional
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
-#EXTINF:-1,canal 2 - Azteca 13
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-#EXTINF:-1,canal 3 - AZTECA 13 (-30 MINUTOS)
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-#EXTINF:-1,canal 4 - AZTECA NOTICIAS
-http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
-#EXTINF:-1,canal 5 - Canal52
-http://iptutv.on-the-web.tv:1935/live/canal52mx/playlist.m3u8?
-#EXTINF:-1,canal 6 - Canal Once
-http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8
-#EXTINF:-1,canal 7 - CAPITAL 21 CDMX
-http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
-#EXTINF:-1,canal 8 - Canal del Congreso
-http://q.gs:80/14608897/qcanal-378?USER=power-by-juan&PASS=stream.m3u8
-#EXTINF:-1,canal 9 - Imagen tv
-http://iptutv.on-the-web.tv:1935/live/imagentv/playlist.m3u8?
-#EXTINF:-1,canal 10 - MULTIMEDIOS MONTERREY
-http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
-#EXTINF:-1,canal 11 - PROYECTO 40
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
-#EXTINF:-1,canal 12 - SUN CHANEL
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
-#EXTINF:-1,canal 13 - Telemundo
-http://stream.ssh101.com:1935/live/anahix7/chunklist.m3u8
-#EXTINF:-1,canal 14 - Trendy Channel
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
-#EXTINF:-1,canal 15 - TVMas
-http://q.gs:80/14608897/qcanal-389?USER=power-by-juan&PASS=stream.m3u8
-#EXTINF:-1,canal 16 - UNA VOZ CON TODOS HD
-http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8
-#EXTINF:-1,INFANTILES
-http://infantiles.ej/index.m3u8
-#EXTINF:-1,canal 1 - Anime TV (ESP)
-http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
-#EXTINF:-1,canal 2 - Baby TV
-http://premium.exabytetv.info/HLSST/317/317-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
-#EXTINF:-1,canal 3 - Boomerang
-http://sicoticoxw.com/LIVE/H01/CANAL324/PROFILE03.m3u8
-#EXTINF:-1,canal 4 - Cartoon Network
-http://sicoticoxw.com/LIVE/H01/CANAL320/PROFILE03.m3u8
-#EXTINF:-1,canal 5 - CBeebies
-http://sicoticoxw.com/LIVE/H01/CANAL305/PROFILE03.m3u8
-#EXTINF:-1,canal 6 - Discovery Kids
-http://sicoticoxw.com/LIVE/H01/CANAL303/PROFILE03.m3u8
-#EXTINF:-1,canal 7 - Disney Jr
-http://sicoticoxw.com/LIVE/H01/CANAL308/PROFILE03.m3u8
-#EXTINF:-1,canal 8 - Disney Channel
-http://sicoticoxw.com/LIVE/H01/CANAL312/PROFILE03.m3u8
-#EXTINF:-1,canal 9 - Disney XD
-http://sicoticoxw.com/LIVE/H01/CANAL322/PROFILE03.m3u8
-#EXTINF:-1,canal 10 - Gravity Falls (24/7 HD)
-http://q.gs:80/14608897/power-by-juan-canal-420?stream.mp4
-#EXTINF:-1,canal 11 - Nick
-http://sicoticoxw.com/LIVE/H01/CANAL317/PROFILE03.m3u8
-#EXTINF:-1,canal 12 - Nick HD
-http://sicoticoxw.com/LIVE/H01/CANAL315/PROFILE03.m3u8
-#EXTINF:-1,canal 13 - Nick JUNIOR
-http://sicoticoxw.com/LIVE/H01/CANAL310/PROFILE03.m3u8
-#EXTINF:-1,canal 14 - Nicktoos
-http://sicoticoxw.com/LIVE/H01/CANAL314/PROFILE03.m3u8
-#EXTINF:-1,canal 15 - Tateti
-http://q.gs:80/14608897/qcanal-362?USER=power-by-juan&PASS=stream.m3u8
-#EXTINF:-1,canal 16 - TIIN
-http://sicoticoxw.com/LIVE/H01/CANAL325/PROFILE03.m3u8
-#EXTINF:-1,canal 17 - Tooncast
-http://sicoticoxw.com/LIVE/H01/CANAL328/PROFILE03.m3u8
-#EXTINF:-1,canal 18 - Once Niños
-http://premium.exabytetv.info/HLSST/13432/13432-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
-#EXTINF:-1,ENTRETENIMIENTO
-http://entren.ej/index.m3u8
-#EXTINF:-1,canal 1 - AXN HD
-http://sicoticoxw.com/LIVE/H01/CANAL213/PROFILE03.m3u8
-#EXTINF:-1,canal 2 - A&E
-http://premium.exabytetv.info/totalpleix/211/5/TPWQB-1011000101100111010011011110110-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1,canal 3- CANAL 5 MX
-http://sicoticoxw.com/LIVE/H01/CANAL105/PROFILE03.m3u8
-#EXTINF:-1,canal 4 - Canal de las Estrellas
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:-1,canal 5 - Canal de las Estrellas HD
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-#EXTINF:-1,canal 6 - Comedy Central
-http://sicoticoxw.com/LIVE/H01/CANAL217/PROFILE03.m3u8
-#EXTINF:1,canal 7 - Distrito Comedia
-http://sicoticoxw.com/LIVE/H01/CANAL272/PROFILE03.m3u8
-#EXTINF:-1,canal 8 -  E! (MEX)
-http://premium.exabytetv.info/HLSST/427/427-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
-#EXTINF:-1,canal 9 -Fail Army
-http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8
-#EXTINF:-1, canal 10 - GALAVISION  MX
-http://158.69.127.19:8000/live/2354RT5/2354RT5/6755.ts
-#EXTINF:-1, canal 11 - GalaTV
-http://sicoticoxw.com/LIVE/H01/CANAL109/PROFILE03.m3u8
-#EXTINF:-1,canal 12 - Fox Comedy
-http://premium.exabytetv.info/HLSST/461/461-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
-#EXTINF:-1,canal 13 - Fox HD
-http://sicoticoxw.com/LIVE/H01/CANAL201/PROFILE03.m3u8
-#EXTINF:-1,canal 15 - Fox Life
-http://premium.exabytetv.info/HLSST/425/425-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
-#EXTINF:-1,canal 16 - FX HD
-http://sicoticoxw.com/LIVE/H01/CANAL209/PROFILE03.m3u8
-#EXTINF:-1,canal 17 - Latina
-http://ooyalahd2-f.akamaihd.net/i/latinlima01_delivery@42383/master.m3u8
-#EXTINF:-1,canal 18 - Lifetime
-http://premium.exabytetv.info/HLSST/423/423-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
-#EXTINF:-1,canal 19 - Sony HD
-http://sicoticoxw.com/LIVE/H01/CANAL203/PROFILE03.m3u8
-#EXTINF:-1,canal 20 - Mas Chic
-http://158.69.127.19:8000/live/2354RT5/2354RT5/6844.ts
-#EXTINF:-1,canal 21 - Sun Channel
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
-#EXTINF:-1,canal 22 - TBS Very Funny
-http://sicoticoxw.com/LIVE/H01/CANAL273/PROFILE03.m3u8
-#EXTINF:-1,canal 23 - Telemundo
-http://stream.ssh101.com:1935/live/anahix7/chunklist.m3u8
-#EXTINF:-1,canal 24 - Telemundo HD
-http://iphone-streaming.ustream.tv:80/uhls/22690280/streams/live/playlist.m3u8
-#EXTINF:-1,canal 25 - TLC
-http://sicoticoxw.com/LIVE/H01/CANAL386/PROFILE03.m3u8
-#EXTINF:-1,canal 26 - TruTV HD
-http://sicoticoxw.com/LIVE/H01/CANAL215/PROFILE03.m3u8
-#EXTINF:-1,canal 27 - Unicable HD
-http://sicoticoxw.com/LIVE/H01/CANAL218/PROFILE03.m3u8
-#EXTINF:-1,canal 28 - Universal Channel
-http://sicoticoxw.com/LIVE/H01/CANAL207/PROFILE03.m3u8
-#EXTINF:-1,canal 29 - Univisión
-http://stream.ssh101.com:1935/live/anahix1/chunklist.m3u8
-#EXTINF:-1,canal 30 - Univisión HD
-http://premium.exabytetv.info/HLSST/13493/13493-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
-#EXTINF:-1,canal 31 - Warner HD
-http://sicoticoxw.com/LIVE/H01/CANAL205/PROFILE03.m3u8
-#EXTINF:-1,PELICULAS
-http://pelis.ej/index.m3u8
-#EXTINF:-1,canal 1 - AMC
-http://sicoticoxw.com/LIVE/H01/CANAL490/PROFILE03.m3u8
-#EXTINF:-1,canal 2 - AMC HD
-http://sicoticoxw.com/LIVE/H01/CANAL444/PROFILE03.m3u8
-#EXTINF:-1,canal 3 - AXN
-http://premium.exabytetv.info/HLSST/2493/2493-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
-#EXTINF:-1,canal 4 - Az Cinema
-http://sicoticoxw.com/LIVE/H01/CANAL425/PROFILE03.m3u8
-#EXTINF:-1,canal 5 - Cinecanal
-http://sicoticoxw.com/LIVE/H01/CANAL480/PROFILE03.m3u8
-#EXTINF:-1,canal 6 - Cinecanal HD
-http://sicoticoxw.com/LIVE/H01/CANAL430/PROFILE03.m3u8
-#EXTINF:-1,canal 7 - Cinecanal+
-http://premium.exabytetv.info/HLSST/13424/13424-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
-#EXTINF:-1,canal 8 - Cinemax
-http://sicoticoxw.com/LIVE/H01/CANAL481/PROFILE03.m3u8
-#EXTINF:-1,canal 9 - Cinema Dinamita
-http://158.69.127.19:8000/live/2354RT5/2354RT5/6869.ts
-#EXTINF:-1,canal 10 - De Pelicula HD
-http://sicoticoxw.com/LIVE/H01/CANAL442/PROFILE03.m3u8
-#EXTINF:-1,canal 11 - De Pelicula 2 HD
-http://stream.latino-webtv.com/stream.m3u8?
-#EXTINF:-1,canal 12 - Fox 1 Este
-http://premium.exabytetv.info/HLSST/433/433-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
-#EXTINF:-1,canal 13 - Fox 1 HD
-http://sicoticoxw.com/LIVE/H01/CANAL415/PROFILE03.m3u8
-#EXTINF:-1,canal 14 - Fox Action HD
-http://sicoticoxw.com/LIVE/H01/CANAL416/PROFILE03.m3u8
-#EXTINF:-1,canal 15 - Fox Cinema
-http://sicoticoxw.com/LIVE/H01/CANAL421/PROFILE03.m3u8
-#EXTINF:-1,canal 16 - Fox Classics
-http://sicoticoxw.com/LIVE/H01/CANAL424/PROFILE03.m3u8
-#EXTINF:-1,canal 17 - Fox Crime
-http://cdn.iptv.amis.net/LIVE/FOXCRIMEHRVATSKA/stream_wifi_1200k.m3u8
-#EXTINF:-1,canal 18 - Fox Movies HD
-http://sicoticoxw.com/LIVE/H01/CANAL417/PROFILE03.m3u8
-#EXTINF:-1,canal 19 - Golden
-http://sicoticoxw.com/LIVE/H01/CANAL484/PROFILE03.m3u8
-#EXTINF:-1,canal 20 - Golden HD
-http://sicoticoxw.com/LIVE/H01/CANAL436/PROFILE03.m3u8
-#EXTINF:-1,canal 21 - Golden Multiplex
-http://premium.exabytetv.info/HLSST/1035/1035-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
-#EXTINF:-1,canal 22 - Golden Premier 1
-http://premium.exabytetv.info/HLSST/4777/4777-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
-#EXTINF:-1,canal 23 - Golden Premier 2
-http://158.69.127.19:8000/live/2354RT5/2354RT5/6753.ts
-#EXTINF:-1,canal 24 - HBO
-http://s5.tvplayerlatino.com/stk/HBO/index.m3u8
-#EXTINF:1,canal 25 - HBO 2
-http://s5.tvplayerlatino.com/stk/HBO2/index.m3u8
-#EXTINF:-1,canal 26 - HBO Family Latino
-http://s5.tvplayerlatino.com/stk/HBOFamily/index.m3u8
-#EXTINF:-1,canal 27 - HBO Plus
-http://iptutv.on-the-web.tv:1935/live/hboplus/playlist.m3u8?
-#EXTINF:-1,canal 28 - HBO Plus Este
-http://s5.tvplayerlatino.com/stk/HBOPlusEste/index.m3u8
-#EXTINF:-1,canal 29 - HBO Plus Oeste
-http://s5.tvplayerlatino.com/stk/HBOPlus/index.m3u8
+#EXTINF: 0, [ES] ESTADOS UNIDOS EE.UU.
+#EXTINF: -1 Grupo-title = "Streams", NBC
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/1.mpegts
+#EXTINF: -1 Grupo-title = "Streams", A & E
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/2.mpegts
+#EXTINF: -1 Grupo-title = "Streams", AMC
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/3.mpegts
+#EXTINF: -1 Grupo-title = "Streams", ABC
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/4.mpegts
+#EXTINF: -1 Grupo-title = "Streams", E!
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/5.mpegts
+#EXTINF: -1 Grupo-title = "Streams", FOX
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/6.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Syfy
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/7.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Spike
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/8.mpegts
+#EXTINF: -1 Grupo-title = "Streams", TBS
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/9.mpegts
+#EXTINF: -1 Grupo-title = "Streams", TNT
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/10.mpegts
+#EXTINF: -1 Grupo-title = "Streams", LMN
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/12.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Hallmark Channel
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/13.mpegts
+#EXTINF: -1 Grupo-title = "Streams", truTV
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/14.mpegts
+#EXTINF: -1 Grupo-title = "Streams", PROPIO
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/15.mpegts
+#EXTINF: -1 Grupo-title = "Streams", BBC AMERICA
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/16.mpegts
+#EXTINF: -1 Grupo-title = "Streams", TV CIUDAD
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/17.mpegts
+#EXTINF: -1 Grupo-title = "Streams", CTV
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/18.mpegts
+#EXTINF: -1 Grupo-title = "Streams", central de la comedia
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/19.mpegts
+#EXTINF: -1 Grupo-title = "Streams", de por vida
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/20.mpegts
+#EXTINF: -1 Grupo-title = "Streams", CBC
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/21.mpegts
+#EXTINF: -1 Grupo-title = "Streams", HBO
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/22.mpegts
+#EXTINF: -1 Grupo-title = "Streams", HBO 2
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/23.mpegts
+#EXTINF: -1 Grupo-title = "Streams", HBO COMEDIA
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/24.mpegts
+#EXTINF: -1 Grupo-title = "Streams", HBO ZONA
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/25.mpegts
+#EXTINF: -1 Grupo-title = "Streams", HBO FIRMA
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/26.mpegts
+#EXTINF: -1 Grupo-title = "Streams", HBO FAMILIA
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/27.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Showtime
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/28.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Showtime 2
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/29.mpegts
+#EXTINF: -1 Grupo-title = "Streams", VITRINA SHOWTIME
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/30.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Starz Medio
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/31.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Starz West
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/32.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Startz Edge
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/33.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Starz Cine
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/34.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Starz Encore
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/35.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Starz Comedia
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/36.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Starz N Negro
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/37.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Starz Codificar Occidental
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/38.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Cinemax Medio
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/39.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Cinemax 5 StarMax
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/40.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Cinemax ActionMax
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/41.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Cinemax Moremax
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/42.mpegts
+#EXTINF: -1 Grupo-title = "Streams", espacio
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/43.mpegts
+#EXTINF: -1 Grupo-title = "Streams", el canal de películas
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/44.mpegts
+#EXTINF: -1 Grupo-title = "Streams", ESPN
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/45.mpegts
+#EXTINF: -1 Grupo-title = "Streams", ESPN 2
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/46.mpegts
+#EXTINF: -1 Grupo-title = "Streams", ESPN NU
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/47.mpegts
+#EXTINF: -1 Grupo-title = "Streams", NBC SN
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/48.mpegts
+#EXTINF: -1 Grupo-title = "Streams", CBS SN
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/49.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Fox Sports 1
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/50.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Fox Sports 2
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/51.mpegts
+#EXTINF: -1 Grupo-title = "Streams", NBA TV
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/52.mpegts
+#EXTINF: -1 Grupo-title = "Streams", MLB Network
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/53.mpegts
+#EXTINF: -1 Grupo-title = "Streams", NFL Network
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/54.mpegts
+#EXTINF: -1 Grupo-title = "Streams", NFL Ahora
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/55.mpegts
+#EXTINF: -1 Grupo-title = "Streams", NHL
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/56.mpegts
+#EXTINF: -1 Grupo-title = "Streams", WWE Network
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/57.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Tsn1
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/58.mpegts
+#EXTINF: -1 Grupo-title = "Streams", TSN 2
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/59.mpegts
+#EXTINF: -1 Grupo-title = "Streams", TSN 3
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/60.mpegts
+#EXTINF: -1 Grupo-title = "Streams", TSN4
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/61.mpegts
