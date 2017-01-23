@@ -1,0 +1,15 @@
+# uk
+#EXTM3U
+#EXTINF:-1,-----BB PLAYLISTER-----
+
+#EXTINF:-1, SKY MOVIES PREMIERE
+http://136.243.12.170/sky_moviespremiere_gb.m3u8
+
+#EXTINF:-1, DISNEY CHANNEL UK
+http://136.243.12.170/disney_channel_gb.m3u8
+
+#EXTINF:-1, NICKELODEON UK
+http://136.243.12.170/nickelodeon_gb.m3u8
+
+#EXTINF:-1, SKY ONE
+http://136.243.12.170/sky_one_gb.m3u8
