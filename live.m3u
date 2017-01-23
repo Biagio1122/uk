@@ -1,15 +1,41 @@
 # uk
 #EXTM3U
-#EXTINF:-1,-----BB PLAYLISTER-----
-
-#EXTINF:-1, SKY MOVIES PREMIERE
-http://136.243.12.170/sky_moviespremiere_gb.m3u8
-
-#EXTINF:-1, DISNEY CHANNEL UK
-http://136.243.12.170/disney_channel_gb.m3u8
-
-#EXTINF:-1, NICKELODEON UK
-http://136.243.12.170/nickelodeon_gb.m3u8
-
-#EXTINF:-1, SKY ONE
-http://136.243.12.170/sky_one_gb.m3u8
+#EXTINF:-1,FR Bein 2 HD
+#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/178.ts
+#EXTINF:-1,FR Bein 1 HD
+#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/177.ts
+#EXTINF:-1,RTK Toksor
+#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/176.ts
+#EXTINF:-1,Klan Plus HD
+#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/175.ts
+#EXTINF:-1,Elrodi TV
+#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/174.ts
+#EXTINF:-1,BT SPORT 2
+#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/173.ts
+#EXTINF:-1,BT SPORT 1
+#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/172.ts
+#EXTINF:-1,Sky Sport News UK
+#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/166.ts
+#EXTINF:-1,Sky Sport F1
+#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/171.ts
+#EXTINF:-1,Sky Sport 5 UK
+#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/170.ts
+#EXTINF:-1,Sky Sport 4 HD
+#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/169.ts
+#EXTINF:-1,Sky Sport 3 UK
+#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/168.ts
+#EXTINF:-1,Sky Sport 2 UK
+#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/167.ts
