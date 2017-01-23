@@ -1,81 +1,39 @@
 # uk
 #EXTM3U
-#EXTINF: 0, [ES] ESTADOS UNIDOS EE.UU.
-#EXTINF: -1 Grupo-title = "Streams", NBC
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/1.mpegts
-#EXTINF: -1 Grupo-title = "Streams", A & E
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/2.mpegts
-#EXTINF: -1 Grupo-title = "Streams", AMC
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/3.mpegts
-#EXTINF: -1 Grupo-title = "Streams", ABC
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/4.mpegts
-#EXTINF: -1 Grupo-title = "Streams", E!
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/5.mpegts
-#EXTINF: -1 Grupo-title = "Streams", FOX
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/6.mpegts
-#EXTINF: -1 Grupo-title = "Streams", Syfy
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/7.mpegts
-#EXTINF: -1 Grupo-title = "Streams", Spike
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/8.mpegts
-#EXTINF: -1 Grupo-title = "Streams", TBS
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/9.mpegts
-#EXTINF: -1 Grupo-title = "Streams", TNT
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/10.mpegts
-#EXTINF: -1 Grupo-title = "Streams", LMN
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/12.mpegts
-#EXTINF: -1 Grupo-title = "Streams", Hallmark Channel
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/13.mpegts
-#EXTINF: -1 Grupo-title = "Streams", truTV
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/14.mpegts
-#EXTINF: -1 Grupo-title = "Streams", PROPIO
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/15.mpegts
-#EXTINF: -1 Grupo-title = "Streams", BBC AMERICA
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/16.mpegts
-#EXTINF: -1 Grupo-title = "Streams", TV CIUDAD
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/17.mpegts
-#EXTINF: -1 Grupo-title = "Streams", CTV
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/18.mpegts
-#EXTINF: -1 Grupo-title = "Streams", central de la comedia
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/19.mpegts
-#EXTINF: -1 Grupo-title = "Streams", de por vida
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/20.mpegts
-#EXTINF: -1 Grupo-title = "Streams", CBC
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/21.mpegts
+#EXTINF: 0, [COLOR deepskyblue]PREMIUM CHANNELS[/COLOR]
 #EXTINF: -1 Grupo-title = "Streams", HBO
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/22.mpegts
 #EXTINF: -1 Grupo-title = "Streams", HBO 2
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/23.mpegts
-#EXTINF: -1 Grupo-title = "Streams", HBO COMEDIA
+#EXTINF: -1 Grupo-title = "Streams", HBO COMEDY
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/24.mpegts
-#EXTINF: -1 Grupo-title = "Streams", HBO ZONA
+#EXTINF: -1 Grupo-title = "Streams", HBO ZONE
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/25.mpegts
-#EXTINF: -1 Grupo-title = "Streams", HBO FIRMA
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/26.mpegts
-#EXTINF: -1 Grupo-title = "Streams", HBO FAMILIA
+#EXTINF: -1 Grupo-title = "Streams", HBO FAMILY
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/27.mpegts
 #EXTINF: -1 Grupo-title = "Streams", Showtime
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/28.mpegts
 #EXTINF: -1 Grupo-title = "Streams", Showtime 2
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/29.mpegts
-#EXTINF: -1 Grupo-title = "Streams", VITRINA SHOWTIME
+#EXTINF: -1 Grupo-title = "Streams", SHOWTIME
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/30.mpegts
-#EXTINF: -1 Grupo-title = "Streams", Starz Medio
+#EXTINF: -1 Grupo-title = "Streams", Starz
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/31.mpegts
 #EXTINF: -1 Grupo-title = "Streams", Starz West
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/32.mpegts
 #EXTINF: -1 Grupo-title = "Streams", Startz Edge
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/33.mpegts
-#EXTINF: -1 Grupo-title = "Streams", Starz Cine
+#EXTINF: -1 Grupo-title = "Streams", Starz Cinema
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/34.mpegts
 #EXTINF: -1 Grupo-title = "Streams", Starz Encore
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/35.mpegts
-#EXTINF: -1 Grupo-title = "Streams", Starz Comedia
+#EXTINF: -1 Grupo-title = "Streams", Starz Comedy
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/36.mpegts
-#EXTINF: -1 Grupo-title = "Streams", Starz N Negro
+#EXTINF: -1 Grupo-title = "Streams", Starz
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/37.mpegts
-#EXTINF: -1 Grupo-title = "Streams", Starz Codificar Occidental
+#EXTINF: -1 Grupo-title = "Streams", Starz
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/38.mpegts
-#EXTINF: -1 Grupo-title = "Streams", Cinemax Medio
+#EXTINF: -1 Grupo-title = "Streams", Cinemax 
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/39.mpegts
 #EXTINF: -1 Grupo-title = "Streams", Cinemax 5 StarMax
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/40.mpegts
@@ -83,10 +41,7 @@ http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/40.mpegts
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/41.mpegts
 #EXTINF: -1 Grupo-title = "Streams", Cinemax Moremax
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/42.mpegts
-#EXTINF: -1 Grupo-title = "Streams", espacio
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/43.mpegts
-#EXTINF: -1 Grupo-title = "Streams", el canal de películas
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/44.mpegts
+#EXTINF: 0, [COLOR deepskyblue]SPORTS CHANNELS[/COLOR]
 #EXTINF: -1 Grupo-title = "Streams", ESPN
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/45.mpegts
 #EXTINF: -1 Grupo-title = "Streams", ESPN 2
@@ -109,7 +64,7 @@ http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/53.mpegts
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/54.mpegts
 #EXTINF: -1 Grupo-title = "Streams", NFL Ahora
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/55.mpegts
-#EXTINF: -1 Grupo-title = "Streams", NHL
+#EXTINF: -1 Grupo-title = "Streams", NHL Network
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/56.mpegts
 #EXTINF: -1 Grupo-title = "Streams", WWE Network
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/57.mpegts
