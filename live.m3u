@@ -1,10 +1,196 @@
 # uk
 #EXTM3U
-#EXTINF:-1,Channel One - NASA
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-#EXTINF:-1,Channel Two - TWiT
-http://hls.twit.tv:1935/flosoft/smil:twitStream.smil/playlist.m3u8
-#EXTINF:-1,Channel Three - BipBop
-http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8
-#EXTINF:-1,Channel Four - BigBuckBunny
-http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8
+#EXTINF:-1,NOTICIAS
+http://noticias.ej/index.m3u8
+#EXTINF:-1,canal 1 - Antena 3 Internacional
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:-1,canal 2 - Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:-1,canal 3 - AZTECA 13 (-30 MINUTOS)
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:-1,canal 4 - AZTECA NOTICIAS
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
+#EXTINF:-1,canal 5 - Canal52
+http://iptutv.on-the-web.tv:1935/live/canal52mx/playlist.m3u8?
+#EXTINF:-1,canal 6 - Canal Once
+http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8
+#EXTINF:-1,canal 7 - CAPITAL 21 CDMX
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:-1,canal 8 - Canal del Congreso
+http://q.gs:80/14608897/qcanal-378?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:-1,canal 9 - Imagen tv
+http://iptutv.on-the-web.tv:1935/live/imagentv/playlist.m3u8?
+#EXTINF:-1,canal 10 - MULTIMEDIOS MONTERREY
+http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
+#EXTINF:-1,canal 11 - PROYECTO 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF:-1,canal 12 - SUN CHANEL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+#EXTINF:-1,canal 13 - Telemundo
+http://stream.ssh101.com:1935/live/anahix7/chunklist.m3u8
+#EXTINF:-1,canal 14 - Trendy Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1,canal 15 - TVMas
+http://q.gs:80/14608897/qcanal-389?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:-1,canal 16 - UNA VOZ CON TODOS HD
+http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8
+#EXTINF:-1,INFANTILES
+http://infantiles.ej/index.m3u8
+#EXTINF:-1,canal 1 - Anime TV (ESP)
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+#EXTINF:-1,canal 2 - Baby TV
+http://premium.exabytetv.info/HLSST/317/317-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
+#EXTINF:-1,canal 3 - Boomerang
+http://sicoticoxw.com/LIVE/H01/CANAL324/PROFILE03.m3u8
+#EXTINF:-1,canal 4 - Cartoon Network
+http://sicoticoxw.com/LIVE/H01/CANAL320/PROFILE03.m3u8
+#EXTINF:-1,canal 5 - CBeebies
+http://sicoticoxw.com/LIVE/H01/CANAL305/PROFILE03.m3u8
+#EXTINF:-1,canal 6 - Discovery Kids
+http://sicoticoxw.com/LIVE/H01/CANAL303/PROFILE03.m3u8
+#EXTINF:-1,canal 7 - Disney Jr
+http://sicoticoxw.com/LIVE/H01/CANAL308/PROFILE03.m3u8
+#EXTINF:-1,canal 8 - Disney Channel
+http://sicoticoxw.com/LIVE/H01/CANAL312/PROFILE03.m3u8
+#EXTINF:-1,canal 9 - Disney XD
+http://sicoticoxw.com/LIVE/H01/CANAL322/PROFILE03.m3u8
+#EXTINF:-1,canal 10 - Gravity Falls (24/7 HD)
+http://q.gs:80/14608897/power-by-juan-canal-420?stream.mp4
+#EXTINF:-1,canal 11 - Nick
+http://sicoticoxw.com/LIVE/H01/CANAL317/PROFILE03.m3u8
+#EXTINF:-1,canal 12 - Nick HD
+http://sicoticoxw.com/LIVE/H01/CANAL315/PROFILE03.m3u8
+#EXTINF:-1,canal 13 - Nick JUNIOR
+http://sicoticoxw.com/LIVE/H01/CANAL310/PROFILE03.m3u8
+#EXTINF:-1,canal 14 - Nicktoos
+http://sicoticoxw.com/LIVE/H01/CANAL314/PROFILE03.m3u8
+#EXTINF:-1,canal 15 - Tateti
+http://q.gs:80/14608897/qcanal-362?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:-1,canal 16 - TIIN
+http://sicoticoxw.com/LIVE/H01/CANAL325/PROFILE03.m3u8
+#EXTINF:-1,canal 17 - Tooncast
+http://sicoticoxw.com/LIVE/H01/CANAL328/PROFILE03.m3u8
+#EXTINF:-1,canal 18 - Once Niños
+http://premium.exabytetv.info/HLSST/13432/13432-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
+#EXTINF:-1,ENTRETENIMIENTO
+http://entren.ej/index.m3u8
+#EXTINF:-1,canal 1 - AXN HD
+http://sicoticoxw.com/LIVE/H01/CANAL213/PROFILE03.m3u8
+#EXTINF:-1,canal 2 - A&E
+http://premium.exabytetv.info/totalpleix/211/5/TPWQB-1011000101100111010011011110110-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1,canal 3- CANAL 5 MX
+http://sicoticoxw.com/LIVE/H01/CANAL105/PROFILE03.m3u8
+#EXTINF:-1,canal 4 - Canal de las Estrellas
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1,canal 5 - Canal de las Estrellas HD
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+#EXTINF:-1,canal 6 - Comedy Central
+http://sicoticoxw.com/LIVE/H01/CANAL217/PROFILE03.m3u8
+#EXTINF:1,canal 7 - Distrito Comedia
+http://sicoticoxw.com/LIVE/H01/CANAL272/PROFILE03.m3u8
+#EXTINF:-1,canal 8 -  E! (MEX)
+http://premium.exabytetv.info/HLSST/427/427-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
+#EXTINF:-1,canal 9 -Fail Army
+http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8
+#EXTINF:-1, canal 10 - GALAVISION  MX
+http://158.69.127.19:8000/live/2354RT5/2354RT5/6755.ts
+#EXTINF:-1, canal 11 - GalaTV
+http://sicoticoxw.com/LIVE/H01/CANAL109/PROFILE03.m3u8
+#EXTINF:-1,canal 12 - Fox Comedy
+http://premium.exabytetv.info/HLSST/461/461-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
+#EXTINF:-1,canal 13 - Fox HD
+http://sicoticoxw.com/LIVE/H01/CANAL201/PROFILE03.m3u8
+#EXTINF:-1,canal 15 - Fox Life
+http://premium.exabytetv.info/HLSST/425/425-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
+#EXTINF:-1,canal 16 - FX HD
+http://sicoticoxw.com/LIVE/H01/CANAL209/PROFILE03.m3u8
+#EXTINF:-1,canal 17 - Latina
+http://ooyalahd2-f.akamaihd.net/i/latinlima01_delivery@42383/master.m3u8
+#EXTINF:-1,canal 18 - Lifetime
+http://premium.exabytetv.info/HLSST/423/423-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
+#EXTINF:-1,canal 19 - Sony HD
+http://sicoticoxw.com/LIVE/H01/CANAL203/PROFILE03.m3u8
+#EXTINF:-1,canal 20 - Mas Chic
+http://158.69.127.19:8000/live/2354RT5/2354RT5/6844.ts
+#EXTINF:-1,canal 21 - Sun Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+#EXTINF:-1,canal 22 - TBS Very Funny
+http://sicoticoxw.com/LIVE/H01/CANAL273/PROFILE03.m3u8
+#EXTINF:-1,canal 23 - Telemundo
+http://stream.ssh101.com:1935/live/anahix7/chunklist.m3u8
+#EXTINF:-1,canal 24 - Telemundo HD
+http://iphone-streaming.ustream.tv:80/uhls/22690280/streams/live/playlist.m3u8
+#EXTINF:-1,canal 25 - TLC
+http://sicoticoxw.com/LIVE/H01/CANAL386/PROFILE03.m3u8
+#EXTINF:-1,canal 26 - TruTV HD
+http://sicoticoxw.com/LIVE/H01/CANAL215/PROFILE03.m3u8
+#EXTINF:-1,canal 27 - Unicable HD
+http://sicoticoxw.com/LIVE/H01/CANAL218/PROFILE03.m3u8
+#EXTINF:-1,canal 28 - Universal Channel
+http://sicoticoxw.com/LIVE/H01/CANAL207/PROFILE03.m3u8
+#EXTINF:-1,canal 29 - Univisión
+http://stream.ssh101.com:1935/live/anahix1/chunklist.m3u8
+#EXTINF:-1,canal 30 - Univisión HD
+http://premium.exabytetv.info/HLSST/13493/13493-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
+#EXTINF:-1,canal 31 - Warner HD
+http://sicoticoxw.com/LIVE/H01/CANAL205/PROFILE03.m3u8
+#EXTINF:-1,PELICULAS
+http://pelis.ej/index.m3u8
+#EXTINF:-1,canal 1 - AMC
+http://sicoticoxw.com/LIVE/H01/CANAL490/PROFILE03.m3u8
+#EXTINF:-1,canal 2 - AMC HD
+http://sicoticoxw.com/LIVE/H01/CANAL444/PROFILE03.m3u8
+#EXTINF:-1,canal 3 - AXN
+http://premium.exabytetv.info/HLSST/2493/2493-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
+#EXTINF:-1,canal 4 - Az Cinema
+http://sicoticoxw.com/LIVE/H01/CANAL425/PROFILE03.m3u8
+#EXTINF:-1,canal 5 - Cinecanal
+http://sicoticoxw.com/LIVE/H01/CANAL480/PROFILE03.m3u8
+#EXTINF:-1,canal 6 - Cinecanal HD
+http://sicoticoxw.com/LIVE/H01/CANAL430/PROFILE03.m3u8
+#EXTINF:-1,canal 7 - Cinecanal+
+http://premium.exabytetv.info/HLSST/13424/13424-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
+#EXTINF:-1,canal 8 - Cinemax
+http://sicoticoxw.com/LIVE/H01/CANAL481/PROFILE03.m3u8
+#EXTINF:-1,canal 9 - Cinema Dinamita
+http://158.69.127.19:8000/live/2354RT5/2354RT5/6869.ts
+#EXTINF:-1,canal 10 - De Pelicula HD
+http://sicoticoxw.com/LIVE/H01/CANAL442/PROFILE03.m3u8
+#EXTINF:-1,canal 11 - De Pelicula 2 HD
+http://stream.latino-webtv.com/stream.m3u8?
+#EXTINF:-1,canal 12 - Fox 1 Este
+http://premium.exabytetv.info/HLSST/433/433-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
+#EXTINF:-1,canal 13 - Fox 1 HD
+http://sicoticoxw.com/LIVE/H01/CANAL415/PROFILE03.m3u8
+#EXTINF:-1,canal 14 - Fox Action HD
+http://sicoticoxw.com/LIVE/H01/CANAL416/PROFILE03.m3u8
+#EXTINF:-1,canal 15 - Fox Cinema
+http://sicoticoxw.com/LIVE/H01/CANAL421/PROFILE03.m3u8
+#EXTINF:-1,canal 16 - Fox Classics
+http://sicoticoxw.com/LIVE/H01/CANAL424/PROFILE03.m3u8
+#EXTINF:-1,canal 17 - Fox Crime
+http://cdn.iptv.amis.net/LIVE/FOXCRIMEHRVATSKA/stream_wifi_1200k.m3u8
+#EXTINF:-1,canal 18 - Fox Movies HD
+http://sicoticoxw.com/LIVE/H01/CANAL417/PROFILE03.m3u8
+#EXTINF:-1,canal 19 - Golden
+http://sicoticoxw.com/LIVE/H01/CANAL484/PROFILE03.m3u8
+#EXTINF:-1,canal 20 - Golden HD
+http://sicoticoxw.com/LIVE/H01/CANAL436/PROFILE03.m3u8
+#EXTINF:-1,canal 21 - Golden Multiplex
+http://premium.exabytetv.info/HLSST/1035/1035-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
+#EXTINF:-1,canal 22 - Golden Premier 1
+http://premium.exabytetv.info/HLSST/4777/4777-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
+#EXTINF:-1,canal 23 - Golden Premier 2
+http://158.69.127.19:8000/live/2354RT5/2354RT5/6753.ts
+#EXTINF:-1,canal 24 - HBO
+http://s5.tvplayerlatino.com/stk/HBO/index.m3u8
+#EXTINF:1,canal 25 - HBO 2
+http://s5.tvplayerlatino.com/stk/HBO2/index.m3u8
+#EXTINF:-1,canal 26 - HBO Family Latino
+http://s5.tvplayerlatino.com/stk/HBOFamily/index.m3u8
+#EXTINF:-1,canal 27 - HBO Plus
+http://iptutv.on-the-web.tv:1935/live/hboplus/playlist.m3u8?
+#EXTINF:-1,canal 28 - HBO Plus Este
+http://s5.tvplayerlatino.com/stk/HBOPlusEste/index.m3u8
+#EXTINF:-1,canal 29 - HBO Plus Oeste
+http://s5.tvplayerlatino.com/stk/HBOPlus/index.m3u8
