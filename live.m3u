@@ -1,36 +1,10 @@
 # uk
 #EXTM3U
-#EXTINF:-1,@--HOME-MOVIES--@
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/935.ts
-#EXTINF:-1,Movie_1
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/46.ts
-#EXTINF:-1,Movie_2
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/45.ts
-#EXTINF:-1,Movie_3
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/44.ts
-#EXTINF:-1,Movie_4
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/43.ts
-#EXTINF:-1,Movie_5
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/42.ts
-#EXTINF:-1,Movie_6
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/41.ts
-#EXTINF:-1,Movie_7
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/40.ts
-#EXTINF:-1,Movie_8
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/39.ts
-#EXTINF:-1,Movie_9_kids
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/38.ts
-#EXTINF:-1,Movie_10_kids
-http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/37.ts
-#EXTINF:-1,Teatro_Masr_1
-http://0100dyndns.tv:7879/movie/wa15/eTKbGZTQDE/626.mp4
-#EXTINF:-1,Teatro_Masr_2
-http://0100dyndns.tv:7879/movie/wa15/eTKbGZTQDE/627.mp4
-#EXTINF:-1,Teatro_Masr_3
-http://0100dyndns.tv:7879/movie/wa15/eTKbGZTQDE/628.mp4
-#EXTINF:-1,Teatro_Masr_4
-http://0100dyndns.tv:7879/movie/wa15/eTKbGZTQDE/629.mp4
-#EXTINF:-1,Teatro_Masr_5
-http://0100dyndns.tv:7879/movie/wa15/eTKbGZTQDE/630.mp4
-#EXTINF:-1,MASRAHIAT-1
-http://0100dyndns.tv:7879/movie/wa15/eTKbGZTQDE/921.mp4
+#EXTINF:-1,Channel One - NASA
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+#EXTINF:-1,Channel Two - TWiT
+http://hls.twit.tv:1935/flosoft/smil:twitStream.smil/playlist.m3u8
+#EXTINF:-1,Channel Three - BipBop
+http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8
+#EXTINF:-1,Channel Four - BigBuckBunny
+http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8
