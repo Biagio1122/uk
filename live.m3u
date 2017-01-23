@@ -1,28 +1,36 @@
 # uk
 #EXTM3U
-#EXTINF:0,Bein Max 1 HD
-http://pro213.com/live/JFGDIG0547BEIN/beinFDG40max057505df/5722.ts
-#EXTINF:0,Bein Max 1 HD Backup
-http://pro213.com/live/JFGDIG0547BEIN/beinFDG40max057505df/5760.ts
-#EXTINF:0,Bein Max 1 SD
-http://pro213.com/live/JFGDIG0547BEIN/beinFDG40max057505df/5763.ts
-#EXTINF:0,Bein Max 2 HD
-http://pro213.com/live/JFGDIG0547BEIN/beinFDG40max057505df/5723.ts
-#EXTINF:0,Bein Max 2 HD Backup
-http://pro213.com/live/JFGDIG0547BEIN/beinFDG40max057505df/5761.ts
-#EXTINF:0,Bein Max 2 SD
-http://pro213.com/live/JFGDIG0547BEIN/beinFDG40max057505df/5764.ts
-#EXTINF:0,Bein Max 3 HD
-http://pro213.com/live/JFGDIG0547BEIN/beinFDG40max057505df/5724.ts
-#EXTINF:0,Bein Max 3 HD Backup
-http://pro213.com/live/JFGDIG0547BEIN/beinFDG40max057505df/5762.ts
-#EXTINF:0,Bein Max 3 SD
-http://pro213.com/live/JFGDIG0547BEIN/beinFDG40max057505df/5765.ts
-#EXTINF:0,B Sports 3 BackUp
-http://pro213.com/live/JFGDIG0547BEIN/beinFDG40max057505df/4488.ts
-#EXTINF:0,B Sports 3 HD
-http://pro213.com/live/JFGDIG0547BEIN/beinFDG40max057505df/4472.ts
-#EXTINF:0,B Sports 3 Low
-http://pro213.com/live/JFGDIG0547BEIN/beinFDG40max057505df/4512.ts
-#EXTINF:0,B Sports 3 SD
-http://pro213.com/live/JFGDIG0547BEIN/beinFDG40max057505df/4500.ts
+#EXTINF:-1,USA TSN Sports 1 HD
+http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4983.ts
+#EXTINF:-1,USA TSN Sports 2 HD
+http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4984.ts
+#EXTINF:-1,USA TSN Sports 3 HD
+http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4985.ts
+#EXTINF:-1,USA TSN Sports 4 HD
+http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4986.ts
+#EXTINF:-1,USA TSN Sports 5 HD
+http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4987.ts
+#EXTINF:-1,USA: PAC Mountain 1080P
+http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4982.ts
+#EXTINF:-1,USA: PAC Network National 720P
+http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4981.ts
+#EXTINF:-1,USA: PAC-12 Net. (Arizona) 1080P
+http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4980.ts
+#EXTINF:-1,USA: PAC-12 Net. (Arizona) 720P
+http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4979.ts
+#EXTINF:-1,USA: PAC-12 Net. (Bay Area) 1080P
+http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4978.ts
+#EXTINF:-1,USA: PAC-12 Net. (Bay Area) 720P
+http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4977.ts
+#EXTINF:-1,USA: PAC-12 Net. (Encore)
+http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4976.ts
+#EXTINF:-1,USA: PAC-12 Net. (Los Angeles) 720P
+http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4975.ts
+#EXTINF:-1,USA: PAC-12 Net. (Oregon) 1080P
+http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4974.ts
+#EXTINF:-1,USA: PAC-12 Net. (Oregon) 720P
+http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4973.ts
+#EXTINF:-1,USA: PAC-12 Net. (Washington) 1080P
+http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4972.ts
+#EXTINF:-1,USA: PAC-12 Net. (Washington) 720P
+http://spirit01.webhop.me:8000/live/lHgNWnJI3i/kludjyxw8v/4971.ts
