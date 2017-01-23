@@ -1,41 +1,72 @@
 # uk
 #EXTM3U
-#EXTINF:-1,FR Bein 2 HD
-#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
-http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/178.ts
-#EXTINF:-1,FR Bein 1 HD
-#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
-http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/177.ts
-#EXTINF:-1,RTK Toksor
-#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
-http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/176.ts
-#EXTINF:-1,Klan Plus HD
-#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
-http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/175.ts
-#EXTINF:-1,Elrodi TV
-#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
-http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/174.ts
-#EXTINF:-1,BT SPORT 2
-#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
-http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/173.ts
-#EXTINF:-1,BT SPORT 1
-#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
-http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/172.ts
-#EXTINF:-1,Sky Sport News UK
-#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
-http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/166.ts
-#EXTINF:-1,Sky Sport F1
-#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
-http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/171.ts
-#EXTINF:-1,Sky Sport 5 UK
-#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
-http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/170.ts
-#EXTINF:-1,Sky Sport 4 HD
-#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
-http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/169.ts
-#EXTINF:-1,Sky Sport 3 UK
-#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
-http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/168.ts
-#EXTINF:-1,Sky Sport 2 UK
-#EXTVLCOPT:http-user-agent=iHATVShqip/6.1
-http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/167.ts
+#EXTINF:-1,@--ENGLISH-CHANNEL--@
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/938.ts
+#EXTINF:-1,UK:Sky-Sports-1-HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/522.ts
+#EXTINF:-1,UK:Sky-Sports-2-HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/523.ts
+#EXTINF:-1,UK:Sky-Sports-3-HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/386.ts
+#EXTINF:-1,UK:Sky-Sports-4-HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/387.ts
+#EXTINF:-1,UK:SKY-SPORTS-5-HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/631.ts
+#EXTINF:-1,UK:Sky-Sports-F1-HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/969.ts
+#EXTINF:-1,UK:CTH-Stadium-1-HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/965.ts
+#EXTINF:-1,UK:CTH-Stadium-2-HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/966.ts
+#EXTINF:-1,UK:CTH-Stadium-3-HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/967.ts
+#EXTINF:-1,UK:CTH-Stadium-4-HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/968.ts
+#EXTINF:-1,UK:SportTimeTV1
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/410.ts
+#EXTINF:-1,UK:SPORTIMETV2
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/409.ts
+#EXTINF:-1,UK:SportTimeTV4
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/408.ts
+#EXTINF:-1,UK:SportTimeTV5
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/407.ts
+#EXTINF:-1,UK:SportTimeTV6
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/406.ts
+#EXTINF:-1,UK:Eurosport-1-HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/970.ts
+#EXTINF:-1,UK:Eurosport-2-HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/971.ts
+#EXTINF:-1,UK:RTE-1-HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/977.ts
+#EXTINF:-1,UK:Horror-Channel-HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/976.ts
+#EXTINF:-1,UK:CBS-Drama-HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/972.ts
+#EXTINF:-1,UK:CBS-Action-HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/973.ts
+#EXTINF:-1,UK:Disney_Junior
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/691.ts
+#EXTINF:-1,UK:Disney_Channel
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/907.ts
+#EXTINF:-1,UK:Discovery_History
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/908.ts
+#EXTINF:-1,UK:Sky_Movies_Comedy-HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/549.ts
+#EXTINF:-1,UK:4-Seven-HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/547.ts
+#EXTINF:-1,UK:True_Movies_1
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/633.ts
+#EXTINF:-1,UK:True_Movies_2
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/550.ts
+#EXTINF:-1,UK:Sky-Movies-Premiere-HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/974.ts
+#EXTINF:-1,UK:Sky-Movies-Drama-HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/975.ts
+#EXTINF:-1,UK:Sky-Movies-Family_HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/551.ts
+#EXTINF:-1,UK:Sky-Movies-Select_HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/552.ts
+#EXTINF:-1,UK:Sky-Cinema-Passion-HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/553.ts
+#EXTINF:-1,UK:BBC-NEWS-HD
+http://0100dyndns.tv:7879/live/wa15/eTKbGZTQDE/978.ts
